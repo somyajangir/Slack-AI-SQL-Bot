@@ -2,7 +2,7 @@
 
 Convert natural language questions to SQL queries instantly in Slack using AI.
 
-**[👉 Watch Demo](YOUR_DEMO_LINK_HERE)** | **[Installation](#quick-start)**
+**[👉 Watch Demo](https://drive.google.com/file/d/1G8MsKU7WH42bmsvQhdHAJh8pg7X6gHIe/view?usp=sharing)** 
 
 ---
 
@@ -47,7 +47,7 @@ Formatted Slack response
 
 **1. Clone & Setup**
 ```bash
-git clone https://github.com/yourusername/slack-ai-sql-bot.git
+git clone https://github.com/somyajangir/Slack-AI-SQL-Bot.git
 cd slack-ai-sql-bot
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
