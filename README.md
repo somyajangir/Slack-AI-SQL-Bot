@@ -207,4 +207,4 @@ Pull requests welcome!
 
 ---
 
-**Built with ❤️ • [Star if helpful!](https://github.com/yourusername/slack-ai-sql-bot)**
+**Built with ❤️ • [Star if helpful!](https://github.com/somyajangir/Slack-AI-SQL-Bot)**
